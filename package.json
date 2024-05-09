@@ -33,7 +33,7 @@
     "@tauri-apps/cli": "^1.5.2",
     "@types/node": "^20.10.6",
     "typescript": "^5.2.2",
-    "vite": "^4.4.11"
+    "vite": "^4.5.3"
   },
   "vaadin": {
     "disableUsageStatistics": true
